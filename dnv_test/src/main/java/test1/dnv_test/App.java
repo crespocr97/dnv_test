@@ -16,7 +16,7 @@ public class App {
 		
 try {
 			
-			/*go to url */
+			/*go to url  */
 			driver.get("https://www.dnv.com/");
 			driver.manage().window().maximize();
 			Thread.sleep(1000);
